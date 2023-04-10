@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>learning on LibraFFly&#39;s Blog</title>
+    <link>https://libraffly.github.io/tags/learning/</link>
+    <description>Recent content in learning on LibraFFly&#39;s Blog</description>
+    <image>
+      <title>LibraFFly&#39;s Blog</title>
+      <url>https://libraffly.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://libraffly.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>LibraFFly</copyright>
+    <lastBuildDate>Sun, 09 Apr 2023 12:05:35 +0800</lastBuildDate><atom:link href="https://libraffly.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学习scala</title>
+      <link>https://libraffly.github.io/posts/%E5%AD%A6%E4%B9%A0scala/</link>
+      <pubDate>Sun, 09 Apr 2023 12:05:35 +0800</pubDate>
+      
+      <guid>https://libraffly.github.io/posts/%E5%AD%A6%E4%B9%A0scala/</guid>
+      <description>scala 命名空间 值：字段、方法、包、单例对象 类型：类、特质 同一个命名空间的定义类型，在同一个定义域内不能重名。 变量 char：16位字符变量，uni</description>
+    </item>
+    
+  </channel>
+</rss>
