@@ -18,7 +18,7 @@
       <pubDate>Sun, 09 Apr 2023 12:05:35 +0800</pubDate>
       
       <guid>https://libraffly.github.io/posts/%E5%AD%A6%E4%B9%A0scala/</guid>
-      <description>scala 命名空间 值：字段、方法、包、单例对象 类型：类、特质 同一个命名空间的定义类型，在同一个定义域内不能重名。 变量 char：16位字符变量，uni</description>
+      <description>[toc] 副作用 除了返回函数值以外，还对主调用函数产生了附加的影响，如输出（改变了控制台的状态）、改变了主调用函数中变量的值等。 命名空间 值：字段、方</description>
     </item>
     
   </channel>
